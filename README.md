@@ -1,5 +1,34 @@
 # Personal-Finance
 
+
+```
+
+Mutual Funds
+
+Stocks
+
+Captial Gains
+
+Equity Funds
+
+Hybrid Funds
+
+Debt Funds
+
+Saving schemes
+
+FD Interests
+
+RD Interests
+
+Tax
+
+AAdhar Card
+
+Pan Card
+
+```
+
 ```
 
 CFP Syllabus
